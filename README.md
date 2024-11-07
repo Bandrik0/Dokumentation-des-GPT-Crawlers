@@ -1,3 +1,14 @@
+Dokumentation des GPT-Crawlers für die Erstellung einer Informationsdatenbank
+
+Einleitung
+
+In diesem Projekt wurde der GPT-Crawler verwendet, um eine Informationsdatenbank zu erstellen, die für eine Schulwebsite nützlich ist. Der Crawler durchsucht Webseiten und speichert nützliche Informationen in einer JSON-Datei, die anschließend genutzt wird, um einen Chatbot zu füttern. Dieser Chatbot beantwortet Fragen der Nutzer basierend auf den gesammelten Daten.
+
+Voraussetzungen
+
+Um dieses Projekt erfolgreich zu verwenden, stelle sicher, dass du folgende Programme und Tools installiert hast:
+	•	Node.js: https://nodejs.org/
+	•	npm (Node Package Manager): Wird zusammen mit Node.js installiert.
 	•	Git: https://git-scm.com/
 
 Schritte zur Einrichtung
