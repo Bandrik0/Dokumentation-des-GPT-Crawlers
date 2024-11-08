@@ -68,7 +68,9 @@ Fehlerbehebung
 
 Falls du auf Probleme stößt, überprüfe die folgenden Punkte:
 	•	Stelle sicher, dass alle Abhängigkeiten erfolgreich mit npm install installiert wurden.
+ 
 	•	Vergewissere dich, dass du den richtigen Ordner im Terminal geöffnet hast, bevor du den Crawler startest.
+ 
 	•	Achte darauf, dass die output.json-Datei erfolgreich erstellt wurde und die richtigen Daten enthält.
 
 Fazit
