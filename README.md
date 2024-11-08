@@ -67,11 +67,11 @@ Lade die Datei output.json auf die ChatGPT-Website oder eine andere geeignete Pl
 Fehlerbehebung
 
 Falls du auf Probleme stößt, überprüfe die folgenden Punkte:
-	•	Stelle sicher, dass alle Abhängigkeiten erfolgreich mit npm install installiert wurden.
- 
-	•	Vergewissere dich, dass du den richtigen Ordner im Terminal geöffnet hast, bevor du den Crawler startest.
- 
-	•	Achte darauf, dass die output.json-Datei erfolgreich erstellt wurde und die richtigen Daten enthält.
+•	Stelle sicher, dass alle Abhängigkeiten erfolgreich mit npm install installiert wurden.
+
+•	Vergewissere dich, dass du den richtigen Ordner im Terminal geöffnet hast, bevor du den Crawler startest.
+
+•	Achte darauf, dass die output.json-Datei erfolgreich erstellt wurde und die richtigen Daten enthält.
 
 Fazit
 
